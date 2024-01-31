@@ -6,3 +6,5 @@ I believe the robot analogy presented in this [article](https://sertiscorp.mediu
 > when developing a robot, a software engineer would build the robot and **write the code that instructs the robot on how to move its arms and legs to walk**. Meanwhile, a machine learning engineer would **develop a model that serves as the robot’s ‘brain,’** teaching it how to think, interpret conversations, and respond appropriately.
 
 ML Engineers must understand the inner workings of a model in order to fine tune features for ideal functionalities. SWEs build programs which utilize the models' functionalities to achieve the end user's goal. Knowing this, I want to become a ML Engineer and learn how to build better brains and make AI workflows less empirical.
+
+Joyce Xie: This article helps me understand the key differences between ML engineers and Software enigneers. Software engineers build the frameworks and ML engineers train the performances of the software. Two roles are equally important and must collaborate for better outcomes. 
